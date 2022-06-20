@@ -11,7 +11,7 @@ Saída
 Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.*/
 
 import java.util.Scanner;
-public class 1001 {
+public class 1001 {  //P.S colocar Main
     public static void main(String[] args) {
        Scanner input = Scanner(System.in);
        int A, B, X;
