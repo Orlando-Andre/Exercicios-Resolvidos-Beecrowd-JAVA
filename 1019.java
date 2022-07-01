@@ -11,7 +11,7 @@ Saída
 Imprima o tempo lido no arquivo de entrada (segundos), convertido para horas:minutos:segundos, conforme exemplo fornecido.*/
 
 import java.util.Scanner;
-public class Main { //P.S colocar Main
+public class 1019 { //P.S colocar Main
     public static void main (String[] args){
         Scanner input = new java.util.Scanner(System.in);
         int N, horas, minutos, segundos;

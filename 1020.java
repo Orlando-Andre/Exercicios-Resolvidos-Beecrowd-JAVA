@@ -13,7 +13,7 @@ Saída
 Imprima a saída conforme exemplo fornecido.*/
 
 import java.util.Scanner;
-public class 1020 {
+public class 1020 {//P.S colocar Main
     public static void main (String[] args){
         Scanner input = new java.util.Scanner(System.in);
         int nIdadeD, ano, mes, dia;
