@@ -1,5 +1,5 @@
 # Exercicios-Resolvidos-Beecrowd-JAVA
-Este repositório contém alguns exercícios da plataforma [beecrowd](https://www.beecrowd.com.br/)
+Este repositório foi criado com o objetivo de testar e aprimorar meus conhecimentos em lógica de programação. Além disso, a plataforma utilizada é o [beecrowd](https://www.beecrowd.com.br/) antigo URI.
 
 **Linguagem Utilizada ---> JAVA**
 
